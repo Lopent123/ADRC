@@ -1,0 +1,2 @@
+This document is the content of the ADRC framework in the paper "Community anomaly detection in attributed
+networks based on refining context". The required inputs are the adjacency matrix, the attribute matrix, and so on. The code is annotated accordingly for your reference.
